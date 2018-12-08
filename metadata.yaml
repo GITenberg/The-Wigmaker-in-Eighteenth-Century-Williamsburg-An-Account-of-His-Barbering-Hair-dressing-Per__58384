@@ -6,6 +6,9 @@ contributor:
     agent_name: Townsend, Raymond R.
     gutenberg_agent_id: '49919'
     url: http://www.gutenberg.org/2009/agents/49919
+covers:
+- cover_type: archival
+  image_path: 58384-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bullock, Thomas K.
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '49248'
     url: http://www.gutenberg.org/2009/agents/49248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58384#The-Wigmaker-in-Eighteenth-Century-Williamsburg-An-Account-of-His-Barbering-Hair-dressing-Per_
 gutenberg_issued: '2018-11-30'
 gutenberg_type: Text
 identifiers:
