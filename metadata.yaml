@@ -1,0 +1,39 @@
+_repo: The-Wigmaker-in-Eighteenth-Century-Williamsburg-An-Account-of-His-Barbering-Hair-dressing-Per__58384
+_version: 0.0.1
+alternative_title: The Wigmaker in 18th-Century Williamsburg
+contributor:
+  contributor:
+    agent_name: Townsend, Raymond R.
+    gutenberg_agent_id: '49919'
+    url: http://www.gutenberg.org/2009/agents/49919
+creator:
+  authors:
+  - agent_name: Bullock, Thomas K.
+    gutenberg_agent_id: '49757'
+    url: http://www.gutenberg.org/2009/agents/49757
+  - agent_name: Tonkin, Maurice B.
+    gutenberg_agent_id: '49918'
+    url: http://www.gutenberg.org/2009/agents/49918
+  editor:
+    agent_name: Ford, Thomas K.
+    gutenberg_agent_id: '49248'
+    url: http://www.gutenberg.org/2009/agents/49248
+description: ''
+gutenberg_issued: '2018-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Williamsburg craft series
+subjects:
+- !lcsh 'Wigmakers'
+- !lcc 'GT'
+- !lcc 'TT'
+- !lcsh 'Wigs -- History'
+- GITenberg
+title: "The Wigmaker in Eighteenth-Century Williamsburg\r\nAn Account of His Barbering,\
+  \ Hair-dressing, & Peruke-Making Services, & Some Remarks on Wigs of Various Styles."
+url: http://www.gutenberg.org/ebooks/58384
